@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on **software architecture**
 - 🌱 I’m currently learning **Jamstack**
 - 👯 I’m looking to collaborate on **frontend**
-- 🤔 I’m looking for help with **backtend**
+- 🤔 I’m looking for help with **backend**
 - 💬 Ask me about **what you need to know**
 - 😄 Pronouns: **she/her**
 - ⚡ Fun fact: **“Nothing will work unless you do.”**
